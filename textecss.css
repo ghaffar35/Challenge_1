@@ -1,0 +1,119 @@
+@font-face {font-family:"josefin Sans";
+src:url(josefinsans-regular.ttf);
+}
+html{
+	
+	
+	 background:url(bg.jpg") no-repeat;
+	 background-size:cover;
+	 background-color:black;
+}
+
+body{
+	
+	height:1100px;
+	width:1020px;
+	background-color:#fff;
+	margin:auto;
+}
+
+
+main{ /*premier partie de texte avant les reseaux sociaux*/
+       height: 630 px;
+	   width: 1020px;
+	  
+	  }	 
+	  p {/*texte sur et en dessous des image*/
+	  
+	 color:#7a7a7a;
+font-family:Bitter,Arial;	 
+	  }	
+hr {/*barre de separation*/
+     width:86;
+	 border:1px #e8e8e8 inset;
+	 color:white;
+	 
+	 }	 
+
+
+
+main{/*gestion du texte axial*/
+     text-align:center;
+     font-size:20px;
+	 height:90px;
+	 width:900px;
+	 margin-top:100px;
+	 margin-left:60px;
+	 font-weight: bold;
+	 
+	 }	
+
+
+div{/* texte image bloc*/
+     display: inline-block:
+	 margin-top:45px;
+	 
+	 }	
+h3 {/*titre des colonnes*/
+
+font-size:18px;
+
+}
+
+div > p  {/* texte dessous les images*/
+font-size:14px;
+
+}	 
+
+.ph1{/*image1*/
+height:195px;
+width:260px;
+margin-left:6px;
+
+}
+.bande1{/*colonne1*/
+      height480px;
+      width:260px;
+	  margin-left:60px;
+	  float:left;
+	  
+	  
+	  }
+	  
+.ph2{ /*image2*/
+
+
+   height:195px;
+   width:260px;
+   margin-left: 6px;
+   
+   
+   }
+.bande2{/*colonne2*/
+     height:480px;
+	 width:260px;
+	 margin-left:60px;
+	 
+	 }   
+	 
+.ph3 {/image3*/
+
+      height:195px.
+	  width:260px;
+	  margin-left:6px;
+	  
+	  
+	  }	 
+	  
+.bande3 {:*colonne3*/
+       height:480px;
+	   width:260px;
+	   margin-left:60px;
+	   }
+	 
+	 
+	 
+	   
+	   
+
+     
